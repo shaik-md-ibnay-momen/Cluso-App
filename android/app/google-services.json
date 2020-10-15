@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555736842891",
+    "firebase_url": "https://showcase-mtc.firebaseio.com",
+    "project_id": "showcase-mtc",
+    "storage_bucket": "showcase-mtc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555736842891:android:2316aaf670446c066c0a8e",
+        "android_client_info": {
+          "package_name": "com.mtc.clusho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555736842891-keq5q3dvm3t80laphp52ftatfc71hu4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mtc.clusho",
+            "certificate_hash": "1b04ceda77833f627f6a721f62e469f2889df2e2"
+          }
+        },
+        {
+          "client_id": "555736842891-39jgkcsemjjqk4cu292e0ngjk2m28j27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwTLOAyPNinXsov1ApSayrP2qUgfc79O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555736842891-39jgkcsemjjqk4cu292e0ngjk2m28j27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,95 @@
+{
+  "respond": 1,
+  "paging": {
+    "stillmore": 0,
+    "perpage": 0,
+    "callpage": 0,
+    "next": 0,
+    "previous": 0,
+    "pages": 0,
+    "result": 0
+  },
+  "message": "",
+  "result": [
+    {
+      "ID": "34",
+      "user_login": "qwerty",
+      "user_nicename": "qwerty",
+      "user_email": "qwerty@gmail.com",
+      "user_url": "",
+      "user_registered": "",
+      "display_name": "qwerty",
+      "meta_value": "a:1:{s:10:\"subscriber\";b:1;}",
+      "session_id": "f3f5a9ff3cdbe408da1c15e67c290d22",
+      "role": {
+        "subscriber": true
+      },
+      "first_name": "",
+      "last_name": "",
+      "nickname": "qwerty",
+      "description": "",
+      "aim": "",
+      "jabber": "",
+      "yim": "",
+      "custom_fields": [],
+      "authormeta": {
+        "nickname": "qwerty",
+        "first_name": "",
+        "last_name": "",
+        "description": "",
+        "rich_editing": "true",
+        "syntax_highlighting": "true",
+        "comment_shortcuts": "false",
+        "admin_color": "fresh",
+        "use_ssl": "0",
+        "show_admin_bar_front": "true",
+        "locale": "",
+        "mod905_capabilities": {
+          "subscriber": true
+        },
+        "mod905_user_level": "0",
+        "synced_gravatar_hashed_id": "52a0d313329104107aed27e651038601",
+        "session_tokens": {
+          "f05841cdbaaa2aefdf29052f919b5eb6bbfc24a1dc3750fd561ef4ac7ffdc96c": {
+            "expiration": 1592430697,
+            "ip": "103.89.24.35",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36",
+            "login": 1576878697
+          },
+          "4f2cf0feb8f8d7b7ce43828cdba6a2af998ed9842e5f214a5aa85bbf2197f042": {
+            "expiration": 1592430789,
+            "ip": "103.89.24.35",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36",
+            "login": 1576878789
+          },
+          "77e63dd4988ea226a9fbcad350c7840990e06343e1cc73b6beba39a0337018c2": {
+            "expiration": 1592431544,
+            "ip": "103.89.24.35",
+            "ua": "PostmanRuntime/7.21.0",
+            "login": 1576879544
+          },
+          "bdbddc0e9b8425eae44152757f06f864999b8f0a10bebe3dd464f9b270e42b67": {
+            "expiration": 1592431583,
+            "ip": "103.89.24.35",
+            "ua": "PostmanRuntime/7.21.0",
+            "login": 1576879583
+          },
+          "b3530c092af663c3ab80d956fd633def3d100e4285d0b0d73e5cea8fbb386aa1": {
+            "expiration": 1592495639,
+            "ip": "103.89.24.35",
+            "ua": "PostmanRuntime/7.21.0",
+            "login": 1576943639
+          }
+        },
+        "wc_last_active": "1576886400",
+        "_um_last_login": "1576943639",
+        "yith_wrvp_products_list": [],
+        "wfls-last-login": "1576943639",
+        "_woocommerce_load_saved_cart_after_login": "1",
+        "smio_followers": 0,
+        "smio_followed": 0
+      },
+      "avatar": "https://showcase-mtc.eu/wp-content/uploads/2019/10/765-default-avatar.png"
+    }
+  ]
+}
